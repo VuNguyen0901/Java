@@ -48,5 +48,6 @@ public class SimpleCalculator {
             }
             return firstNumber / secondNumber;
         }
+        
     }
 
